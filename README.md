@@ -31,8 +31,9 @@
 <div align="center">
   <img src="https://novatorem-hosanna13s-projects.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </div>
+
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-hosanna13s-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21zq73is2vbpyxy7v45aunn3y)
+  [![Spotify]("https://novatorem-hosanna13s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21zq73is2vbpyxy7v45aunn3y)
 </div>
 
 ###
