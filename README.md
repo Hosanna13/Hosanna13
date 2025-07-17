@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨  building better ways—tech wasn’t made for us, but I’m changing that<br>📚 Currently learning how to design systems that make space for people, not just data<br>🎯 Goal: Use tech + storytelling to open doors for people who’ve been overlooked<br>🎲 Fun fact: I started editing videos for fun and accidentally found my purpose along the way</p>
+<p align="left">
+  ✨  building better ways—tech wasn’t made for us, but I’m changing that<br>
+  📚 Currently Learning: RESTAPI, Adobe CEP Development, Database Systens<br>
+  🎯 Goal: Use technology to change the world through digital experinces, improvements etc. <br>
+  🎲 Fun fact: I started editing videos for fun and accidentally found my purpose along the way. </p>
 
 ###
 
