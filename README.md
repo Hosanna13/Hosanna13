@@ -13,7 +13,7 @@
 <p align="left">
   ✨  building better ways—tech wasn’t made for us, but I’m changing that<br>
   📚 Currently Learning: RESTAPI, Adobe CEP Development, Database Systens<br>
-  🎯 Goal: Use technology to change the world through digital experinces, improvements etc. <br>
+  🎯 Goal: Using technology to improve the how people live, work, and interact with others around them<br>
   🎲 Fun fact: I started editing videos for fun and accidentally found my purpose along the way. </p>
 
 ###
