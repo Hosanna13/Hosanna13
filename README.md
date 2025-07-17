@@ -36,7 +36,7 @@
 
 ###
 
-![snake gif](https://raw.githubusercontent.com/Hosanna13/read-me/output/snake.svg)
+
 ###
 
 <h2 align="left">I code with</h2>
