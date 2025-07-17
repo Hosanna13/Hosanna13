@@ -16,21 +16,6 @@
   🎯 Goal: Using technology to improve the how people live, work, and interact with others around them<br>
   🎲 Fun fact: I started editing videos for fun and accidentally found my purpose along the way. </p>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/hosannaao/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Hosannaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/hosannaotchere/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
    <a href="https://open.spotify.com/user/21zq73is2vbpyxy7v45aunn3y" target="_blank">
