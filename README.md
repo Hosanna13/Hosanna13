@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hosanna, and I'm a third-year computer engineering student at The Ohio State University.</p>
+<p align="left">My name is Hosanna, and I'm a third-year electrical and computer engineering student at The Ohio State University.</p>
 
 ###
 
