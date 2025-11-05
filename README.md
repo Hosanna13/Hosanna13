@@ -45,7 +45,7 @@
 </div>
 
 ###
-<h2 align="left"> Checkout what I am currently Listening To </h2>
+<h2 align="left"> 🎧 Checkout what I'm Listening To </h2>
 <div align="center">
    <a href="https://open.spotify.com/user/21zq73is2vbpyxy7v45aunn3y" target="_blank">
     <img src="https://novatorem-hosanna13s-projects.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
