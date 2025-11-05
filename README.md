@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-  ✨  building better ways—tech wasn’t made for us, but I’m changing that<br>
-  📚 Currently Learning: AI Agent Integration, System Design <br>
-  🎯 Goal: Using technology to improve how people live, work, and interact with others around them<br>
+  ✨  My motivation stems from my passion for learning and becoming the best in my craft. <br>
+  📚 Currently Learning: AI Agents, System Design, Database Systems, Frontend Development using Next.js, Backend Development using Node.js <br>
+  🎯 Goal: Using technology to improve lives. <br>
   🎲 Fun fact: I started editing videos for fun and accidentally found my purpose along the way. </p>
 
 
