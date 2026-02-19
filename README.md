@@ -11,10 +11,8 @@
 ###
 
 <p align="left">
-  ✨  My motivation stems from my passion for learning and becoming the best in my craft. <br>
   📚 Currently Learning: AI Agents, System Design, Database Systems, Frontend Development using Next.js, Backend Development using Node.js <br>
-  🎯 Goal: Using technology to improve lives. <br>
-  🎲 Fun fact: I started editing videos for fun and accidentally found my purpose along the way. </p>
+  🎲 Fun fact: I started editing videos for fun and learned JavaScript this way. </p>
 
 
 ###
