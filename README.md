@@ -13,6 +13,7 @@
 <p align="left">
   📚 Currently Learning: AI Agents, System Design, Database Systems, Frontend Development using Next.js, Backend Development using Node.js <br>
   🎲 Fun fact: I started editing videos for fun and learned JavaScript this way. </p>
+  www.hosannaotchere.com
 
 
 ###
