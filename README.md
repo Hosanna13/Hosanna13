@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hosanna, and I'm a third-year electrical and computer engineering student at The Ohio State University. I like making video edits, writing stories, and of course building new tools.</p>
+<p align="left">My name is Hosanna, and I'm a fourth-year ( #senior status) electrical and computer engineering student at The Ohio State University. I like making video edits, writing stories, and of course building new tools.</p>
 
 ###
 
