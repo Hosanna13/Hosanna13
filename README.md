@@ -46,7 +46,9 @@
 ###
 <h2 align="left"> 🎧 Checkout what I'm Listening To </h2>
 <div align="center">
-   <a href="https://open.spotify.com/user/21zq73is2vbpyxy7v45aunn3y" target="_blank">
-    <img src="https://novatorem-hosanna13s-projects.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
+ <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21zq73is2vbpyxy7v45aunn3y&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21zq73is2vbpyxy7v45aunn3y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
   </a>
+</p>
 </div>
