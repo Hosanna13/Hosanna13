@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hosanna, and I'm a fourth-year ( #senior status) electrical and computer engineering student at The Ohio State University. I like making video edits, writing stories, and of course building new tools.</p>
+<p align="left">My name is Hosanna, and I'm a senior studying electrical and computer engineering at The Ohio State University. I like building new tools.</p>
 
 ###
 
@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-  📚 Currently Learning: AI Agents, System Design, Database Systems, Frontend Development using Next.js, Backend Development using Node.js <br>
-  🎲 Fun fact: I started editing videos for fun and learned JavaScript this way. </p>
+  📚 Currently Learning: Ai Integration <br>
+  🎲 Fun fact: I started editing videos for fun and learned JavaScript through it. Check out my portfolio below ⬇️. </p>
   www.hosannaotchere.com
 
 
